@@ -7,3 +7,5 @@ You can also determine the types of recommendations by using these properties:
 Category
 Impact level
 Recommendation type
+
+Updated @4/14/2021
