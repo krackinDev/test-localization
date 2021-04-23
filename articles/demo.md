@@ -8,6 +8,4 @@ Category
 Impact level
 Recommendation type
 
-Hello Juno!
-
 Updated @10:38am 4/23/2021
