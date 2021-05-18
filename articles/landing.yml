@@ -1,0 +1,29 @@
+### YamlMime:Landing
+title: landing page test
+summary: landing summary
+metadata:
+  title: landing page test
+  description: Landing pages test page.
+  services: service
+  ms.topic: landing-page
+  ms.collection: collection
+  author: Shichao
+  ms.author: Shichao
+  ms.manager: Ying
+  ms.date: 05/12/2021
+
+landingContent:
+  - title: hello world
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: index overview
+            url: index.md
+  - title: Get started
+    linkLists:
+      - linkListType: quickstart
+        links:
+          - text: Dotnet Tutorial
+            url: dotnet.md
+          - text: Python Tutorial
+            url: python.md

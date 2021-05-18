@@ -1,0 +1,27 @@
+### YamlMime:Hub
+title: Hub Page Test
+summary: Hub summary.
+
+metadata:
+  ms.topic: hub-page
+  author: Shichao
+  ms.author: Shichao
+  manager: Ying
+  ms.date: 05/12/2021
+
+highlightedContent:
+  items:
+    - title: Overview
+      itemType: overview
+      url: index.md
+    - title: Dotnet
+      itemType: get-started
+      url: dotnet.md
+
+conceptualContent:
+  items:
+    - title: Hub page
+      links:
+        - url: ./python.md
+          itemType: concept
+          text: Python
