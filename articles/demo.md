@@ -12,7 +12,7 @@ ms.date: 10/26/2020
 ms.custom: project-no-code
 ms.author: mimart
 ms.subservice: B2C
-localization_priority: high
+ms.localizationpriority : high
 ---
 
 # Analysis Services high availability
