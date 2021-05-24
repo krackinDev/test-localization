@@ -1,3 +1,3 @@
 # Dotnet
 
-.net is cross platform.
+.net is cross platform!

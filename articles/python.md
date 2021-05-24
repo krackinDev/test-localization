@@ -1,3 +1,3 @@
 # Python
 
-Life is short, I use Python..
+Life is short, I use Python...
