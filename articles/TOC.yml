@@ -1,8 +1,8 @@
 - name: Index
   href: index.md
-- name: test index
-  href: index.md
-- name: demo show
-  href: demo.md
-- name: Fundamental coding components demo 9:36
+- name: Dotnet
+  href: dotnet.md
+- name: Python
+  href: python.md
+- name: demo 5/28 15:21
   href: demo.md
