@@ -1,3 +1,3 @@
-# Welcome
+# Welcome to localization test!
 
-Hello world!
+Hello world! Welcome!
