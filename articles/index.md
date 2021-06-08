@@ -2,4 +2,5 @@
 
 Hello world.
 Test
-[text](a.png)
+
+![text](a.png)
