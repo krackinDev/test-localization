@@ -2,5 +2,3 @@
 
 Hello world.
 Test
-
-![text](a.png)
